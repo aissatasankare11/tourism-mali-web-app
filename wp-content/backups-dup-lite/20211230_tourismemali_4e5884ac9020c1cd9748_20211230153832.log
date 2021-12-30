@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 30 December 2021 15h39
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.8.2
+PHP INFO:	7.3.29 | SAPI: apache2handler
+SERVER:		Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_database.sql
+SQL FILE SIZE: 514KB (526335)
+SQL FILE TIME: 2021-12-30 15:39:21
+SQL RUNTIME: 1.83 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/test-wordpress
+ARCHIVE FILE: 20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	77MB
+STATS:	Dirs 652 | Files 6,017
+SQL ADDED: 20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6669
+    [filename] => C:\xampp\htdocs\test-wordpress\wp-content\backups-dup-lite\tmp\20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6668
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 37.67MB
+ARCHIVE RUNTIME: 32.26 sec.
+MEMORY STACK: 12MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/test-wordpress/wp-content/backups-dup-lite/tmp/20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 514KB
+INSTALLER FILE: 64.26KB
+ARCHIVE FILE: 38.73MB 
+EXPECTED FILE/DIRECTORY COUNT: 6,669
+ACTUAL FILE/DIRECTORY COUNT: 6,668
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 34.96 sec.
+PEAK PHP MEMORY USED: 12MB
+DONE PROCESSING => 20211230_tourismemali 30 December 2021 15h39
+
