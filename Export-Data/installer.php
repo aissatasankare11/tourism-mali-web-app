@@ -89,11 +89,11 @@ abstract class DUPX_Bootstrap_Zip_Mode
 class DUPX_Bootstrap
 {
 	//@@ Params get dynamically swapped when package is built
-	const ARCHIVE_FILENAME	 = '20211230_tourismemali_4e5884ac9020c1cd9748_20211230153832_archive.zip';
-	const ARCHIVE_SIZE		 = '39504099';
+	const ARCHIVE_FILENAME	 = '20211230_tourismemali_5ca55fb7387e37982566_20211230172823_archive.zip';
+	const ARCHIVE_SIZE		 = '41440806';
 	const INSTALLER_DIR_NAME = 'dup-installer';
-	const PACKAGE_HASH		 = '4e5884a-30153832';
-    const SECONDARY_PACKAGE_HASH = 'caa29da-30153832';
+	const PACKAGE_HASH		 = '5ca55fb-30172823';
+    const SECONDARY_PACKAGE_HASH = '546caa7-30172823';
 	const VERSION			 = '1.4.3';
 
 	public $hasZipArchive     = false;
